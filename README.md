@@ -77,10 +77,10 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 
 ## Deployed GitHub-Gist Link:
-[Deployed GitHub-Gist Link: Click Here]()
+[Deployed GitHub-Gist Link: Click Here](https://gist.github.com/sonam-git/f077e3b0a86fdd1219227d083c17336e)
 
 ## GitHub Repository:
-[GitHub Repository: Click Here]()
+[GitHub Repository: Click Here](https://github.com/sonam-git/Regex-In-JS-Tutorial)
 
 ### Figure 1. Deployed Public GitHub Gist Screenshot.
 
